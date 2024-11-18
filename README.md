@@ -1,4 +1,5 @@
 # CertiMailer
+![CertiMailer Logo](https://github.com/Dev-0618/CertiMailer/raw/main/CertiMailer.png)
 
 ### Instructions to Set Up CertiMailer  
 
