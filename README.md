@@ -4,7 +4,7 @@
 
 1. **Clone the Repository**  
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Dev-0618/CertiMailer
    cd CertiMailer
    ```
 
