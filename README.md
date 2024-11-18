@@ -1,6 +1,6 @@
 # CertiMailer
 ![CertiMailer Logo](https://github.com/Dev-0618/CertiMailer/raw/main/CertiMailer.png)
-
+## Do checkout Full video on [dev@127.4.7.8](https://youtu.be/BC4BrqIprWk)
 ### Instructions to Set Up CertiMailer  
 
 1. **Clone the Repository**  
